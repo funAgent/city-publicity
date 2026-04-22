@@ -505,7 +505,7 @@ city-publicity/
 ## Usage
 
 1. Navigate to a city directory and open `prompt.md` to get the prompt
-2. Copy the prompt into an AI image generation tool (Midjourney, Stable Diffusion, etc.)
+2. Copy the prompt into an AI image generation tool (gpt image 2.)
 3. Generate a 9:16 vertical poster
 4. Tweak colors, landmarks, or other elements in the prompt as needed
 
