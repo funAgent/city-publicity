@@ -505,7 +505,7 @@ city-publicity/
 ## 使用方法
 
 1. 进入目标城市目录，打开 `prompt.md` 获取提示词
-2. 将提示词复制到 AI 绘图工具（推荐 Midjourney、Stable Diffusion 等）
+2. 将提示词复制到 AI 绘图工具（gpt image 2）
 3. 生成 9:16 竖版海报
 4. 可根据需要微调提示词中的配色、地标等元素
 
