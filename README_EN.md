@@ -2,13 +2,13 @@
 
 **[中文](README.md)**
 
-A collection of AI prompts and generated publicity posters for 42 cities and counties in Xinjiang, China — themed for 2026.
+Generated **42 Guochao-style city publicity posters** for Xinjiang using **GPT Image 2** — the results are absolutely stunning! Double exposure, S-curve composition, and city-specific palettes that bring each city's character to life. All prompts and generated images are open source.
 
 ## Overview
 
 This project features **Guochao (Chinese-style)** city publicity posters tailored for 42 cities and counties in the Xinjiang Uyghur Autonomous Region. Each city includes:
 
-- **`prompt.md`** — AI image generation prompt, compatible with Gpt image 2.
+- **`prompt.md`** — AI image generation prompt, generated with GPT Image 2
 - **`city_name.png`** — Generated 9:16 vertical publicity poster
 
 ## Design Language
@@ -505,7 +505,7 @@ city-publicity/
 ## Usage
 
 1. Navigate to a city directory and open `prompt.md` to get the prompt
-2. Copy the prompt into an AI image generation tool (gpt image 2.)
+2. Copy the prompt into GPT Image 2
 3. Generate a 9:16 vertical poster
 4. Tweak colors, landmarks, or other elements in the prompt as needed
 
