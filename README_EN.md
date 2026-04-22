@@ -8,7 +8,7 @@ A collection of AI prompts and generated publicity posters for 42 cities and cou
 
 This project features **Guochao (Chinese-style)** city publicity posters tailored for 42 cities and counties in the Xinjiang Uyghur Autonomous Region. Each city includes:
 
-- **`prompt.md`** — AI image generation prompt, compatible with Midjourney, Stable Diffusion, DALL-E, etc.
+- **`prompt.md`** — AI image generation prompt, compatible with Gpt image 2.
 - **`city_name.png`** — Generated 9:16 vertical publicity poster
 
 ## Design Language
